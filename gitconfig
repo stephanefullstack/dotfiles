@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = contact@ze-ogier.com
+	name = stephane ze-ogier
